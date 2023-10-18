@@ -18,7 +18,6 @@ export class BigCardComponent implements OnInit {
 
   constructor(){}
   ngOnInit(): void {
-    throw new Error('Method not implemented.');
   }
 
 }
